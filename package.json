@@ -1,0 +1,13 @@
+{
+  "name": "arr-shuffle",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "ingpdw",
+    "email": "ingpdw@gmail.com"
+  },
+  "repository": "https://github.com/ingpdw/arr-shuffle",
+  "license": "MIT",
+  "dependencies": {}
+}
