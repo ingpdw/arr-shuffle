@@ -1,8 +1,11 @@
 {
   "name": "arr-shuffle",
   "version": "0.0.2",
-  "description": "",
+  "description": "shuffle array in javascript",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
   "author": {
     "name": "ingpdw",
     "email": "ingpdw@gmail.com"
